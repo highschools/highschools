@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=28&duration=12&pause=100&color=E3B9A1&center=true&vCenter=true&width=700&lines=──────────" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=28&duration=1&pause=1&color=E3B9A1&center=true&vCenter=true&width=700&lines=──────────" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=28&duration=12&pause=100&color=7E232C&center=true&vCenter=true&width=700&lines=──────────" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=28&duration=1&pause=1&color=7E232C&center=true&vCenter=true&width=700&lines=──────────" />
 </p>
 
 <div align="center">
@@ -48,7 +48,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=28&duration=12&pause=100&color=E3B9A1&center=true&vCenter=true&width=700&lines=──────────" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=28&duration=1&pause=1&color=E3B9A1&center=true&vCenter=true&width=700&lines=──────────" />
 </p>
 
 <p align="center">
