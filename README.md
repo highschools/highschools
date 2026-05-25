@@ -52,13 +52,13 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/lwric">
+  <a href="https://t.me/venna">
     <img src="https://img.shields.io/badge/Telegram-7E232C?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
-  <a href="https://rhy.lol">
+  <a href="https://kissed.you">
     <img src="https://img.shields.io/badge/Website-7E232C?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
-  <a href="https://kissed.you">
+  <a href="https://kissed.you/portfolio">
     <img src="https://img.shields.io/badge/Portfolio-7E232C?style=for-the-badge&logo=firefox-browser&logoColor=white">
   </a>
 </p>
